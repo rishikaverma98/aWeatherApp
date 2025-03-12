@@ -1,1 +1,1 @@
-# This is a file
+# A weather application built with HTML, CSS, and JavaScript that displays current weather data, forecasts, and other details like temperature, humidity, and wind speed, fetching information from a weather API.
